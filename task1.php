@@ -12,5 +12,4 @@ echo "<br>";
  echo "the value of the first number after swap =" .$num1;
  echo "<br>";
  echo "the value of the second number after swap =" .$num2;
-
 ?>
